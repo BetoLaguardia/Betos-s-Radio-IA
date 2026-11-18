@@ -1,0 +1,6 @@
+{
+  "name": "Beto's Radio - Gerador Suno & Player Inteligente",
+  "description": "Beto's Radio com downloader de músicas e capas do Suno, estúdio de composição lírica e arranjos complexos via Gemini, gerador de bandas para Nano Banana e player avançado com letras sincronizadas e suporte a Cast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
